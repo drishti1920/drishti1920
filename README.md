@@ -1,3 +1,2 @@
 - 👋 Hi, I am Drishti.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN stack

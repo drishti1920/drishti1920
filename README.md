@@ -1,2 +1,1 @@
-- 👋 Hi, I am Drishti.
-- 🌱 I’m currently learning MERN stack
+Hi, I am Drishti. Just a person who can code.

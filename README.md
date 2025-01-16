@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drishti Saraf</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drishti1920&label=Profile%20views&color=0e75b6&style=flat" alt="drishti1920" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drishti1920" alt="drishti1920" /></a> </p>
-
 - 🔭 I’m currently working on [FrontEnd Challenges](https://github.com/drishti1920/Frontend-Mentor-Challenges/tree/main)
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, GSAP**

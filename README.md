@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/drishti-saraf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drishti-saraf/" height="30" width="40" /></a>
 <a href="https://medium.com/@drishtisaraf123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drishtisaraf123" height="30" width="40" /></a>
+  <a href="https://dev.to/drishti1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto" alt="drishti1920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,15 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/drishti1920](https://github.com/drishti1920)
 
-- 📝 I regularly write articles on [https://medium.com/@drishtisaraf123](https://medium.com/@drishtisaraf123)
+- 📝 I regularly write articles on [https://dev.to/drishti1920](https://dev.to/drishti1920)
 
 - 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **drishtisaraf74@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Drishti Saraf</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [FrontEnd Challenges](https://github.com/drishti1920/Frontend-Mentor-Challenges/tree/main)
+- 🔭 I’m currently working on [DevTools Hub](https://devtools-hub.netlify.app/)
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, GSAP**
+- 🌱 I’m currently learning **GSAP, Postegrel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/drishti1920](https://github.com/drishti1920)
 

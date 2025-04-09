@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drishti Saraf</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [DevTools Hub](https://dev-tool-hub.netlify.app/)
+- 🔭 I’m currently working on <a href="https://dev-tool-hub.netlify.app/" target="_blank" rel="noopener noreferrer">DevTools Hub</a>
 
 - 🌱 I’m currently learning **GSAP, Postegrel**
 
